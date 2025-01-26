@@ -1,0 +1,2 @@
+"userid","username","email","password","firstname","lastname","temppassword","purchasedapps","usingapps","is_verified","role","organization","phone_number","country","auth_type","profile_image"
+1,"sandysoni","sandysoni@gmail.com","scrypt:32768:8:1$8b5ENCzKkzxXjIvB$9ffd46190a52819a6562127a9e96235c22d170526c1a90af9f4c3127292252cbdf990a3cda84e5f0ddcd89b1ea25954fa82e753d783fd8532ec92bfe405aabfe","sandip","soni",False,0,0,True,"dev","reva","918-361-0600","usa","email",NULL
